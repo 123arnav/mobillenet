@@ -1,0 +1,79 @@
+#heading{
+width:100%;
+background-color: white;
+color:lightblue;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: 0px;
+font-size: 40px;
+}
+#logo{
+    width: 100;
+}
+body{
+    background-color: pink;
+}
+#camera{
+    width: 300px;
+    height: 300px;
+    border: 2px solid white;
+}
+#snapshot{
+    width: 300px;
+    height: 300px;
+    border: 2px solid white;
+}
+#capturediv label{
+background-color: white;
+width: 300px;
+padding: 20px;
+margin: 0px;
+box-shadow: 10px 3px 10px lightblue;
+}
+#snapshotdiv label{
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    margin: 0px;
+    box-shadow: 10px 3px 10px lightblue;
+    }
+#capturediv{
+    border: 2px solid white;
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    color: lightblue;
+}
+#snapshotdiv{
+    border: 2px solid white;
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    color: lightblue;
+}
+#bulb{
+background-color: lightblue;
+color:black;
+font-family: 'EB Garamond', serif;
+font-size: 30px;
+box-shadow: 10px 3px 10px pink;
+width: 50%;
+margin-top: 40px;
+border: black;
+border-width: 2px;
+border-style: solid;
+border-radius: 15px;
+height: 100px;
+}
+#bulb img{
+    width: 100px;
+}
+.copy_write_footer{
+    position: fixed;
+    background-color:lightblue;
+    color:black;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: fantasy;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
